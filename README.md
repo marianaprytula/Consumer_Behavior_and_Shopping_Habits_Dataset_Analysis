@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-- **Goal**: Analyze the Consumer Behavior and Shopping Habits Dataset using visuals in Tableau Desktop.
+- **Goal**: Analyze the Consumer Behavior and Shopping Habits Dataset using visuals in Tableau Desktop. The csv file was uploaded into Tableau Desktop via the connect 'To a file' functionality, and the visuals were created.
 
 ---
 
@@ -44,7 +44,7 @@ Additionally, a chart was created to analyze the demand of each item per season.
  
 
 
-- The fifth dashboard presents the number of Customers by Frequency of Purchases, where the most popular frequency is 'Every 3 months'. There are six Payment methods used approximately the same number of times by Customers. Only 1053 Male Customers are subscribed, and they all use Promo codes and Discounts. Unsubscribed Female Customers do not use any Promo codes or Discounts, while part of the unsubscribed Male Customers use these opportunities. Also, the visual with six Shipping types by Categories is present on this dashboard.
+- The fifth dashboard presents the number of Customers by Frequency of Purchases, where the most popular frequency is 'Every 3 months'. There are six Payment methods used approximately the same number of times by Customers. Only 1053 Male Customers are subscribed, and they all use Promo codes and Discounts. Unsubscribed Female Customers do not use any Promo codes or Discounts, while part of the unsubscribed Male Customers use these opportunities. Additionally, the dashboard features a visual representation of six shipping types categorized by type.
 
 
 ![dashboard_5](dashboards/dashboard_5.jpg "A dashboard 5.") 
@@ -60,5 +60,3 @@ Additionally, a chart was created to analyze the demand of each item per season.
 ```bash
 git clone https://github.com/marianaprytula/Consumer_Behavior_and_Shopping_Habits_Dataset_Analysis.git
 ```
-
-#### Upload csv file into Tableau Desktop via the 'connect' functionality and open the visuals.
